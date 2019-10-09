@@ -1,0 +1,6 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">tM_ix-Knw5K-hmvaK2C-M1ICxMv91bc62ed7-4733-44db-b9e4-fb7dbc70ab0d</string>
+    <string name="app_name">바꾸</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
