@@ -4,9 +4,10 @@
 
 ### 사용 스택 : React Native , socketIO
 
-
-![KakaoTalk_20191028_182650695](https://user-images.githubusercontent.com/34528139/67667237-b6ec2380-f9b0-11e9-8e39-5792d4f26fb6.jpg)
-![KakaoTalk_20191028_182649388](https://user-images.githubusercontent.com/34528139/67667238-b784ba00-f9b0-11e9-8731-94d0b2480562.jpg)
-![KakaoTalk_20191028_182649783](https://user-images.githubusercontent.com/34528139/67667239-b784ba00-f9b0-11e9-933e-a2631e63b2f2.jpg)
-![KakaoTalk_20191028_182650059](https://user-images.githubusercontent.com/34528139/67667241-b784ba00-f9b0-11e9-872f-7563f2231596.jpg)
-![KakaoTalk_20191028_182650299](https://user-images.githubusercontent.com/34528139/67667242-b81d5080-f9b0-11e9-9e73-43759be25f1d.jpg)
+<div>
+ <img width ="100" src="https://user-images.githubusercontent.com/34528139/67667237-b6ec2380-f9b0-11e9-8e39-5792d4f26fb6.jpg"> 
+ <img width ="100" src="https://user-images.githubusercontent.com/34528139/67667238-b784ba00-f9b0-11e9-8731-94d0b2480562.jpg"> 
+ <img width ="100" src="https://user-images.githubusercontent.com/34528139/67667239-b784ba00-f9b0-11e9-933e-a2631e63b2f2.jpg"> 
+ <img width ="100" src="https://user-images.githubusercontent.com/34528139/67667241-b784ba00-f9b0-11e9-872f-7563f2231596.jpg"> 
+ <img width ="100" src="https://user-images.githubusercontent.com/34528139/67667242-b81d5080-f9b0-11e9-9e73-43759be25f1d.jpg"> 
+</div>
